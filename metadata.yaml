@@ -1,0 +1,28 @@
+_repo: Kauppaneuvoksen-h-rk---13-Nelin-yt-ksinen-komedia_14651
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pakkala, Teuvo
+    alias: Frosterus, Teodor Oskar
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '4116'
+    url: http://www.gutenberg.org/2009/agents/4116
+    wikipedia: http://fi.wikipedia.org/wiki/Teuvo_Pakkala
+description: ''
+gutenberg_issued: '2005-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14651'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama'
+- !lcc 'PH'
+title: 'Kauppaneuvoksen härkä: Nelinäytöksinen komedia'
+url: http://www.gutenberg.org/ebooks/14651
